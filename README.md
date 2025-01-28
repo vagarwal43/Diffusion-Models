@@ -1,1 +1,4 @@
 # Diffusion-Models
+
+DDPM
+DDIM
